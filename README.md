@@ -5,7 +5,8 @@ The purpose of this analysis was to help Louise see the data of different campai
 ### Purpose
 Throughout the project, we looked at data from over 4,000 fundraisers for various projects and compared them to each other while also finding new data such as percentage funded and average donations.  Multiple charts and tables were used to simplify the data and make the data easily consumable. 
 ## Analysis and Challenges
-
+![This is an image]https://github.com/ricky7133/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png
+![This is an image]https://github.com/ricky7133/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png
 ### Analysis of Outcomes Based on Launch Date
 An analysis of the data based off theater outcomes based on launch date, shows that throughout the years, fundraisers involving the theater did were most successful when launched in May, closely followed by June.  We can also gather from the data that Kickstarter that launched in October for theaters either were successful or failed but were not canceled.
 ### Analysis of Outcomes Based on Goals
